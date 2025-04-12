@@ -1,0 +1,9 @@
+{
+    "serverID":"666",
+    "dbUser":"xyz",
+    "dbPasswd":"123456",
+    "dbSID":"192.168.164.130:1521/orcl",
+    "port":8989,
+    "maxnode":20,
+    "shmkey":"/home/bin"
+}

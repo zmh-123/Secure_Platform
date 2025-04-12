@@ -1,0 +1,8 @@
+{
+    "clientID":"666",
+    "serverID":"999",
+    "serverIP":"127.0.0.1",
+    "serverPort":8989,
+    "maxNode":1,
+    "shmKey":"/usr/local/bin"
+}
