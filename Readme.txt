@@ -1,3 +1,0 @@
-本项目基于Linux平台实现
-密钥协商服务器测试需配置环境：protobuf,occi,json,oracle
-如果只在本地测试则json文件中的ip地址不用改 跨平台测试则需要将server.json中的ip改为实际ip
